@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Quan Nguyen-Hong</h1>
 <h3 align="center">Student programmer</h3>
 
+- 👀 I’m interested in Back-end, Front-end, and DevOps Engineer
+
 - 🌱 I’m currently learning **Computer Science at Ho Chi Minh City University of Technology (HCMUT)**
 
 - 📫 How to reach me **quan.nguyenhg12@gmail.com**
