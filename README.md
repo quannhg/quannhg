@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **quan.nguyenhg12@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://pdf.ac/3B3G0L)
+- 📄 Know about my experiences [My resume](https://pdf.ac/OEuxD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
